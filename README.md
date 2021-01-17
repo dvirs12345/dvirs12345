@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning mostly data science but try to learn averything about anything :)
 - 👯 I’m looking to collaborate on projects that can help better the world we live in.
 - ✨ Familiarity with the following languages: <br />
-      **Python** (2.*, 3.*): Many projects and experience mostly in pandas, numpy, sklearn, tensorflow and more...
-      **Java** : Lots of projects including games and object oriented projects, also gave lectures at my university in my second year.
-      **C/C++** : Projects like games, some arduino code and smaller projects.
-      **Assembly 8086** : The game Pong made from scratch in high school.
-      **C#** : A few games and basic exercises.
+      **Python** (2.*, 3.*): Many projects and experience mostly in pandas, numpy, sklearn, tensorflow and more...<br />
+      **Java** : Lots of projects including games and object oriented projects, also gave lectures at my university in my second year.<br />
+      **C/C++** : Projects like games, some arduino code and smaller projects.<br />
+      **Assembly 8086** : The game Pong made from scratch in high school.<br />
+      **C#** : A few games and basic exercises.<br />
 - 📫 How to reach me: mail: Dvirs120@gmail.com
 - ⚡ Fun fact: Im 20 years old from Israel.
 
