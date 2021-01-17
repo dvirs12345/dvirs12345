@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalSchreiber95&theme=slateorange&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvirs12345&theme=slateorange&layout=compact" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TalSchreiber95&show_icons=true&theme=slateorange&layout=compact&line_height=20" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dvirs12345&show_icons=true&theme=slateorange&layout=compact&line_height=20" />
 </a>
 
 <h3 align="left">Languages and Tools:</h3>
