@@ -5,22 +5,29 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on finishing my degree and some data science project.
+- 🌱 I’m currently learning mostly data science but try to learn averything about anything :)
+- 👯 I’m looking to collaborate on projects that can help better the world we live in.
+- ✨ Familiarity with the following languages: <br />
+      **Python** (2.*, 3.*): Many projects and experience mostly in pandas, numpy, sklearn, tensorflow and more...
+      **Java** : Lots of projects including games and object oriented projects, also gave lectures at my university in my second year.
+      **C/C++** : Projects like games, some arduino code and smaller projects.
+      **Assembly 8086** : The game Pong made from scratch in high school.
+      **C#** : A few games and basic exercises.
+- 📫 How to reach me: mail: Dvirs120@gmail.com
+- ⚡ Fun fact: Im 20 years old from Israel.
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvirs12345&theme=slateorange&layout=compact" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dvirs12345&show_icons=true&theme=slateorange&layout=compact&line_height=20" />
 </a>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://git-scm.com/" target="git"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>  </a>
